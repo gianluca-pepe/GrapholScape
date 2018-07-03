@@ -839,7 +839,7 @@ GrapholScape.prototype.EdgeXmlToJson = function(arco) {
 GrapholScape.prototype.addFakeNodes = function(array_json_elems) {
 
   var nodo = array_json_elems[array_json_elems.length-1];
-  alert(nodo.data.id);
+  
   if (nodo.data.type == 'facet') {
     // Se il nodo è di tipo facet inseriamo i ritorni a capo nella label
     // e la trasliamo verso il basso di una quantità pari all'altezza del nodo
@@ -1020,7 +1020,6 @@ GrapholScape.prototype.addFakeNodes = function(array_json_elems) {
     array_json_elems.push(circle1);
     array_json_elems.push(circle2);
     array_json_elems.push(front_rectangle);
-    alert(front_rectangle.data.parent_node_id);
   }
 }
 
