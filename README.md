@@ -1,7 +1,8 @@
 # GrapholScape
 
-Advanced web viewer for ontologies written in [GRAPHOL](http://www.dis.uniroma1.it/~graphol/).\
-<img style="align:center" src="https://gianluca-pepe.github.io/GrapholScape/res/gif.gif" />\
+Advanced web viewer for ontologies written in [GRAPHOL](http://www.dis.uniroma1.it/~graphol/).
+
+<img style="align:center" src="https://gianluca-pepe.github.io/GrapholScape/res/gif.gif" />
 Grapholscape provides you advanced and interactive tools to visually inspect all the components of the ontology: you can search for predicates, filters elements on the diagram and have informations about each element on the screen.
 
 ## Usage | [Demo](https://gianluca-pepe.github.io/GrapholScape/)
