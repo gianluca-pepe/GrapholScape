@@ -10,7 +10,7 @@ You can try it [here](https://gianluca-pepe.github.io/GrapholScape/) or just clo
 
 ## What's Graphol?
 GRAPHOL is a completely visual language for developing ontologies and aims to offers a completely visual representation of ontologies to users, in order to help understanding by people who are not skilled in logic.\
-Further informations [here](http://www.dis.uniroma1.it/~graphol/).
+Further information [here](http://www.dis.uniroma1.it/~graphol/).
 
 ## About this project
 My bachelor thesis for the Computer Engineering degree at Sapienza University of Rome mentored by [Domenico Fabio Savo](https://github.com/savo-fabio).\
