@@ -1,4 +1,4 @@
-### For further developments see the OBDA System page: [Here](https://github.com/obdasystems/grapholscape)
+### For further developments see the *OBDA Systems* page: [Here](https://github.com/obdasystems/grapholscape)
 ---
 # GrapholScape
 Advanced web viewer for ontologies written in [GRAPHOL](http://www.dis.uniroma1.it/~graphol/).
